@@ -1,6 +1,7 @@
+//Write a Dart program to create a calculator using switch case.
 void main()
 {
-    dynamic no='-';
+    dynamic no='*';
   
     switch(no)
     {
