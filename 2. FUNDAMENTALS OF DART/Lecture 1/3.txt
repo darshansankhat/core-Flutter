@@ -1,3 +1,4 @@
+//Write a Dart program to perform multiplication of two user given numbers.
 void main()
 {
     num a=5,b=2.5;
