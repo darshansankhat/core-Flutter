@@ -1,3 +1,4 @@
+//Write a Dart program to print multiplication table of user given number.
 void main()
 {
     int a=5,i;
