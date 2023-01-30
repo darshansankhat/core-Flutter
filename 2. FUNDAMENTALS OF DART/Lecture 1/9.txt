@@ -1,0 +1,43 @@
+void main()
+{
+    dynamic no='-';
+  
+    switch(no)
+    {
+      case '+':
+        
+        int a=10,b=20;
+        
+        print("Sum Is : ${a+b}");
+        
+        break;
+        
+      case '-':
+        
+        int a=100,b=20;
+        
+        print("Sum Is : ${a-b}");
+        
+        break;
+        
+      case '*':
+        
+        int a=10,b=2;
+        
+        print("Sum Is : ${a*b}");
+        
+        break;
+        
+      case '/':
+        
+        int a=10,b=2;
+        
+        print("Sum Is : ${a/b}");
+        
+        break;
+        
+      default:
+        
+        print("Invalid .....!!");
+    }
+}

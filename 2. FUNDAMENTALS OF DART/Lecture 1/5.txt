@@ -1,0 +1,14 @@
+void main()
+{
+    int n1=1,i,j,n2=10;
+  
+    for(i=n1;i<=10;i++)
+    {
+        for(j=1;j<=n2;j++)
+        {
+            print("$i * $j = ${i*j}");
+        }
+        
+        print("\n");
+    }
+}

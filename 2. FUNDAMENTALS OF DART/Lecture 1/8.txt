@@ -1,0 +1,6 @@
+void main()
+{
+    int mony=50000,rate=12,year=1;
+  
+    print("Simple Interest is : ${mony*rate*year/100}");
+}
